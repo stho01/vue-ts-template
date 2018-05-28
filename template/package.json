@@ -1,0 +1,32 @@
+{
+  "name": "vue-ts-template",
+  "version": "0.0.1",
+  "description": "A vue typescript project template",
+  "main": "src/index.ts",
+  "scripts": {
+    "start:dev": "webpack-dev-server"
+  },
+  "keywords": [
+    "template",
+    "vue"
+  ],
+  "author": "stho",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "ts-loader": "^4.3.0",
+    "typescript": "^2.8.3",
+    "vue-loader": "^15.2.0",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-property-decorator": "^6.1.0",
+    "vue-router": "^3.0.1"
+  }
+}
