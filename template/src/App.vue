@@ -17,7 +17,8 @@
         padding: 0;
         margin: 0;
         border: 0;
-        background: aqua;
+        background: #222;
+        color: white;
     }
     
     *, *:after, *:before {
